@@ -5,7 +5,8 @@
 1. Download the repository
 2. Install Python version 3.8 available [here](https://www.python.org/downloads/release/python-385/)
 3. Go to the directory where `sudoku.py` is located
-4. Run `pip install -r requirements.txt`
+4. Unzip all of the `.zip` files
+5. Run `pip install -r requirements.txt`
 
 You can now use `sudoku.py` within your project.
 

@@ -12,6 +12,11 @@ runatom.bat
 sudoku.csv
 Test_Sudoku.py
 test.py
+easiest.txt
+easy.txt
+normal.txt
+hard.txt
+hardest.txt
 
 ### Personal Folders ###
 man
